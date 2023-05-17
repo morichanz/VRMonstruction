@@ -19,12 +19,6 @@
 [操作方法]
  ゲーム開始時に操作説明あり
 
-[作品紹介動画]
- https://www.youtube.com/watch?v=nWeTrpswjCc
-
-[作品紹介HP]
- https://www.vantan-game.com/special/tgs/sub_page_07.html
-
 [作品の内容]
  自分が怪獣になって3分間全力で街を破壊します。
  破壊した建物や戦車、戦闘ヘリ、戦艦によって被害額が増えます。
